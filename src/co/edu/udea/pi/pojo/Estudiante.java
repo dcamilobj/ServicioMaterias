@@ -75,13 +75,13 @@ public class Estudiante {
 		horarios.add("MJ12-14");
 		horarios.add("M14-16 V10-12");
 		horarios.add("MJ16-18");
-		horarios.add("W8-14");
+		horarios.add("W08-14");
 		horarios.add("WV14-16");
-		horarios.add("S8-12");
-		horarios.add("MJ6-8");
-		horarios.add("WV8-10");
+		horarios.add("S08-12");
+		horarios.add("MJ06-08");
+		horarios.add("WV08-10");
 		horarios.add("MJ10-12");
-		horarios.add("WV6-8");
+		horarios.add("WV06-08");
 		List<String> aulas = new ArrayList<>();
 		aulas.add("18-210");
 		aulas.add("19-212");
